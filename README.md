@@ -1,3 +1,5 @@
+#Descrição
+Versão Básica de um keyloger em C
 # wlogger
 TODO
 * Aceitar caracteres especiais
